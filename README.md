@@ -1,0 +1,3 @@
+# daraja2
+this code snippets have everything to do with daraja api c2b, and stk push...
+test using postman
